@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../MKS-TFT35-Firmware"
+		},
+		{
+			"name": "Mks-Robin-Nano-Marlin2.0-Firmware",
+			"path": ".."
+		}
+	],
+    "settings": {}
+}
